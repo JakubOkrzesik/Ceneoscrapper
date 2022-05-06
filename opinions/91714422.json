@@ -1,0 +1,547 @@
+[
+    {
+        "author": "Maria",
+        "star_amount": "5/5",
+        "content": "Lodówka amica jest warta zakupu",
+        "useful": "2",
+        "useless": "1",
+        "publish_date": "2021-03-03 12:11:25",
+        "purchase_date": "2021-03-03 12:11:25",
+        "pros": [
+            "głośność pracy",
+            "klasa energetyczna",
+            "wygoda"
+        ],
+        "cons": [
+            "pojemność"
+        ],
+        "opinion_id": "14133566"
+    },
+    {
+        "author": "r...s",
+        "star_amount": "5/5",
+        "content": "Lodówkę kupiłem dla 90-letniej osoby. Niesamowitą rzeczą było patrzeć jak ona się cieszy, jak płona jej oczy, ile radości moze sprawic taki zwykły przedmiot. Reszta jest nieważna. Parametry lodówki z pewnością były dużo lepsze niż w dotychczasowej  chłodziarce.",
+        "useful": "6",
+        "useless": "1",
+        "publish_date": "2021-05-17 11:32:17",
+        "purchase_date": "2021-05-17 11:32:17",
+        "pros": [],
+        "cons": [],
+        "opinion_id": "14523003"
+    },
+    {
+        "author": "e...o",
+        "star_amount": "5/5",
+        "content": "Oceniam produkt na 5 z minusem.. Cicha, pojemna, zgrabna i tania. Jedyny mankament, to uchwyt drzwi lodówki. Jest umiejscowiony zbyt nisko. Trzeba się schylać by ją otworzyć. Reszta OK.",
+        "useful": "0",
+        "useless": "1",
+        "publish_date": "2021-03-21 16:08:26",
+        "purchase_date": "2021-03-21 16:08:26",
+        "pros": [
+            "głośność pracy",
+            "jakość wykończenia",
+            "klasa energetyczna",
+            "oświetlenie",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "opinion_id": "14342220"
+    },
+    {
+        "author": "b...2",
+        "star_amount": "5/5",
+        "content": "Jestem bardzo zadowolona z zakupu lodowka pijemna piękne podswielenie ledowe bardzo pojemna i vicha co najważniejsze bardzo polecam",
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2021-06-01 19:35:33",
+        "purchase_date": "2021-06-01 19:35:33",
+        "pros": [
+            "głośność pracy",
+            "klasa energetyczna",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "opinion_id": "14576631"
+    },
+    {
+        "author": "Ola",
+        "star_amount": "5/5",
+        "content": "Mama mega zadowolona, ładnie wygląda, pojemna, cicha, no frost, czego chcieć więcej :)",
+        "useful": "1",
+        "useless": "0",
+        "publish_date": "2021-07-07 19:54:42",
+        "purchase_date": "2021-07-07 19:54:42",
+        "pros": [
+            "głośność pracy",
+            "klasa energetyczna",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "opinion_id": "14714790"
+    },
+    {
+        "author": "w...1",
+        "star_amount": "4/5",
+        "content": "Wygląda dobrze, trochę zdziwiłem się że boki mają inny kolor niż drzwi. Ogólnie OK.",
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2021-02-17 08:33:21",
+        "purchase_date": "2021-02-17 08:33:21",
+        "pros": [
+            "głośność pracy",
+            "jakość wykończenia",
+            "klasa energetyczna",
+            "oświetlenie",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "opinion_id": "13997764"
+    },
+    {
+        "author": "p...a",
+        "star_amount": "5/5",
+        "content": "Ładna i elegancko wykonana lodówka. Pojemność akurat dla 2 osób w gospodarstwie :)",
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2022-01-25 13:39:44",
+        "purchase_date": "2022-01-25 13:39:44",
+        "pros": [
+            "głośność pracy",
+            "klasa energetyczna",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "opinion_id": "15641132"
+    },
+    {
+        "author": "b...8",
+        "star_amount": "4/5",
+        "content": "Dobra jakość w stosunku do ceny. Trochę za głośna.",
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2021-10-08 18:40:26",
+        "purchase_date": "2021-10-08 18:40:26",
+        "pros": [
+            "jakość wykończenia",
+            "klasa energetyczna",
+            "oświetlenie"
+        ],
+        "cons": [
+            "głośność pracy"
+        ],
+        "opinion_id": "15105050"
+    },
+    {
+        "author": "Użytkownik Ceneo",
+        "star_amount": "4,5/5",
+        "content": "Zgodny z opisem. Dobry stosunek ceny do jakości.",
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2020-04-06 00:37:02",
+        "purchase_date": "2020-04-06 00:37:02",
+        "pros": [],
+        "cons": [],
+        "opinion_id": "12108936"
+    },
+    {
+        "author": "a...4",
+        "star_amount": "5/5",
+        "content": "Pojemna, estetyczna, zgodnie z opisem",
+        "useful": "1",
+        "useless": "0",
+        "publish_date": "2020-10-23 16:09:24",
+        "purchase_date": "2020-10-23 16:09:24",
+        "pros": [],
+        "cons": [],
+        "opinion_id": "13426969"
+    },
+    {
+        "author": "k...a",
+        "star_amount": "5/5",
+        "content": "Dobre wykonanie, jestem zadowolona",
+        "useful": "1",
+        "useless": "0",
+        "publish_date": "2020-10-21 16:26:39",
+        "purchase_date": "2020-10-21 16:26:39",
+        "pros": [],
+        "cons": [],
+        "opinion_id": "13298793"
+    },
+    {
+        "author": "d...h",
+        "star_amount": "5/5",
+        "content": "Jest ok.pieknie się prezentuje",
+        "useful": "1",
+        "useless": "0",
+        "publish_date": "2021-03-11 10:24:09",
+        "purchase_date": "2021-03-11 10:24:09",
+        "pros": [
+            "głośność pracy",
+            "klasa energetyczna",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "opinion_id": "14198102"
+    },
+    {
+        "author": "e...z",
+        "star_amount": "5/5",
+        "content": "jest taka jak potrzebowałem.",
+        "useful": "1",
+        "useless": "0",
+        "publish_date": "2021-04-14 10:46:42",
+        "purchase_date": "2021-04-14 10:46:42",
+        "pros": [
+            "głośność pracy"
+        ],
+        "cons": [],
+        "opinion_id": "14465921"
+    },
+    {
+        "author": "p...a",
+        "star_amount": "5/5",
+        "content": "wszystko ok . lodowka chłodzi. polecam",
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2021-05-11 22:31:14",
+        "purchase_date": "2021-05-11 22:31:14",
+        "pros": [
+            "głośność pracy",
+            "jakość wykończenia",
+            "klasa energetyczna",
+            "oświetlenie",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "opinion_id": "14500036"
+    },
+    {
+        "author": "b...o",
+        "star_amount": "5/5",
+        "content": "Bardzo funkcjonalna i ładna lodówka",
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2021-04-12 09:09:15",
+        "purchase_date": "2021-04-12 09:09:15",
+        "pros": [
+            "głośność pracy",
+            "pojemność"
+        ],
+        "cons": [],
+        "opinion_id": "14459193"
+    },
+    {
+        "author": "d...h",
+        "star_amount": "5/5",
+        "content": "Jest super,zadowolona",
+        "useful": "1",
+        "useless": "0",
+        "publish_date": "2021-03-09 19:24:33",
+        "purchase_date": "2021-03-09 19:24:33",
+        "pros": [
+            "klasa energetyczna",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "opinion_id": "14521841"
+    },
+    {
+        "author": "k...2",
+        "star_amount": "5/5",
+        "content": "Bardzo ładna,zgrabna lodówka",
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2022-02-23 17:16:05",
+        "purchase_date": "2022-02-23 17:16:05",
+        "pros": [],
+        "cons": [],
+        "opinion_id": "15800746"
+    },
+    {
+        "author": "A...1",
+        "star_amount": "5/5",
+        "content": "Świetne wykonanie",
+        "useful": "1",
+        "useless": "0",
+        "publish_date": "2021-09-16 12:45:37",
+        "purchase_date": "2021-09-16 12:45:37",
+        "pros": [],
+        "cons": [],
+        "opinion_id": "14993016"
+    },
+    {
+        "author": "g...6",
+        "star_amount": "5/5",
+        "content": "dobra jakość w dobrej cenie",
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2020-10-06 07:49:30",
+        "purchase_date": "2020-10-06 07:49:30",
+        "pros": [
+            "głośność pracy",
+            "jakość wykończenia",
+            "klasa energetyczna",
+            "oświetlenie",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "opinion_id": "13253692"
+    },
+    {
+        "author": "l...b",
+        "star_amount": "1/5",
+        "content": "Lodówka pracuje jak czołg albo odrzutowiec, grzeje się i kilka razy przestała działac ( nie  chłodziła, nie dało się jej uruchomić).",
+        "useful": "1",
+        "useless": "0",
+        "publish_date": "2020-05-21 09:59:36",
+        "purchase_date": "2020-05-21 09:59:36",
+        "pros": [],
+        "cons": [],
+        "opinion_id": "12597608"
+    },
+    {
+        "author": "m...3",
+        "star_amount": "4,5/5",
+        "content": "Kupiłam rodzicom jest ok",
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2021-06-13 18:48:15",
+        "purchase_date": "2021-06-13 18:48:15",
+        "pros": [
+            "głośność pracy",
+            "klasa energetyczna",
+            "pojemność"
+        ],
+        "cons": [],
+        "opinion_id": "14648646"
+    },
+    {
+        "author": "k...6",
+        "star_amount": "5/5",
+        "content": "Zgrabna, pakowna, cicha",
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2022-02-12 13:26:22",
+        "purchase_date": "2022-02-12 13:26:22",
+        "pros": [
+            "głośność pracy",
+            "klasa energetyczna",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "opinion_id": "15754295"
+    },
+    {
+        "author": "J...3",
+        "star_amount": "4/5",
+        "content": "w tej cenie całkiem ok",
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2020-11-20 10:34:22",
+        "purchase_date": "2020-11-20 10:34:22",
+        "pros": [
+            "głośność pracy",
+            "klasa energetyczna",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "opinion_id": "13437673"
+    },
+    {
+        "author": "l...i",
+        "star_amount": "5/5",
+        "content": "Bardzo estetyczna",
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2022-04-08 10:58:36",
+        "purchase_date": "2022-04-08 10:58:36",
+        "pros": [
+            "głośność pracy",
+            "klasa energetyczna",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "opinion_id": "15977121"
+    },
+    {
+        "author": "w...3",
+        "star_amount": "5/5",
+        "content": "Super",
+        "useful": "1",
+        "useless": "0",
+        "publish_date": "2021-03-26 17:58:25",
+        "purchase_date": "2021-03-26 17:58:25",
+        "pros": [],
+        "cons": [],
+        "opinion_id": "14354659"
+    },
+    {
+        "author": "k...a",
+        "star_amount": "4/5",
+        "content": "Zgodny z opisem",
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2020-10-03 20:39:04",
+        "purchase_date": "2020-10-03 20:39:04",
+        "pros": [
+            "klasa energetyczna",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [
+            "głośność pracy"
+        ],
+        "opinion_id": "13266124"
+    },
+    {
+        "author": "a...k",
+        "star_amount": "4/5",
+        "content": "ok",
+        "useful": "1",
+        "useless": "0",
+        "publish_date": "2021-07-19 17:54:23",
+        "purchase_date": "2021-07-19 17:54:23",
+        "pros": [
+            "klasa energetyczna",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "opinion_id": "14809142"
+    },
+    {
+        "author": "m...a",
+        "star_amount": "5/5",
+        "content": "Dobra jakość",
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2022-01-12 03:30:24",
+        "purchase_date": "2022-01-12 03:30:24",
+        "pros": [
+            "głośność pracy",
+            "pojemność",
+            "wygoda"
+        ],
+        "cons": [],
+        "opinion_id": "15605319"
+    },
+    {
+        "author": "m...0",
+        "star_amount": "3,5/5",
+        "content": "Warte ceny",
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2020-10-19 13:36:40",
+        "purchase_date": "2020-10-19 13:36:40",
+        "pros": [],
+        "cons": [],
+        "opinion_id": "13349988"
+    },
+    {
+        "author": "Alicja",
+        "star_amount": "5/5",
+        "content": "Dobra",
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2021-05-13 16:49:57",
+        "purchase_date": "2021-05-13 16:49:57",
+        "pros": [
+            "jakość wykończenia",
+            "oświetlenie"
+        ],
+        "cons": [],
+        "opinion_id": "14595124"
+    },
+    {
+        "author": "w...t",
+        "star_amount": "4,5/5",
+        "content": "Ok",
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2021-03-17 08:48:45",
+        "purchase_date": "2021-03-17 08:48:45",
+        "pros": [
+            "głośność pracy",
+            "jakość wykończenia",
+            "klasa energetyczna",
+            "oświetlenie",
+            "wygoda"
+        ],
+        "cons": [
+            "pojemność"
+        ],
+        "opinion_id": "14170321"
+    },
+    {
+        "author": "j...i",
+        "star_amount": "4,5/5",
+        "content": "Ok",
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2020-06-29 20:05:10",
+        "purchase_date": "2020-06-29 20:05:10",
+        "pros": [],
+        "cons": [],
+        "opinion_id": "12799187"
+    },
+    {
+        "author": "Użytkownik Ceneo",
+        "star_amount": "5/5",
+        "content": "Na razie dobrze pracuje, nie ma problemów z odszranianiem i jakość wykonania w tej cenie jest dobra. Wizualnie też cieszy oko, ma wygodne uchwyty i proste sterowanie. W tej cenie mi pasowała i na razie nie narzekam na jej działanie :)",
+        "useful": "0",
+        "useless": "0",
+        "publish_date": null,
+        "purchase_date": null,
+        "pros": [],
+        "cons": [],
+        "opinion_id": "12717611"
+    },
+    {
+        "author": "a...k",
+        "star_amount": "0,5/5",
+        "content": "Na tylnej ściance tworzy się warstwą lodu. Produkty w lodówce sa mokre.",
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2020-07-06 21:05:26",
+        "purchase_date": "2020-07-06 21:05:26",
+        "pros": [],
+        "cons": [],
+        "opinion_id": "12990416"
+    },
+    {
+        "author": "b...3",
+        "star_amount": "2,5/5",
+        "content": "Mała lodówka dla niewielkiej rodziny. Cicho pracuje. Niska cena,",
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2021-05-13 11:52:06",
+        "purchase_date": "2021-05-13 11:52:06",
+        "pros": [],
+        "cons": [],
+        "opinion_id": "14518154"
+    },
+    {
+        "author": "m...a",
+        "star_amount": "1/5",
+        "content": "Towar z wada fabryczna, problem ze zwrotem",
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2020-05-19 20:27:18",
+        "purchase_date": "2020-05-19 20:27:18",
+        "pros": [],
+        "cons": [],
+        "opinion_id": "12688898"
+    }
+]
